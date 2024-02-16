@@ -1,3 +1,4 @@
-Hi there 👋 my name is Nastaran and I am 25 years old I am interested in Front End Web Development.
+Hi there 👋 I'm Nastaran and I'm 26 years old . I'm a Front End Developer. I'm interested in learning new things and I am constantly learning.
+
  I code with:
-html5  css3  javascript  tailwindcss  react  bootstrap  mui  next.js  
+html5  css3 tailwindcss bootstrap javascript react nextJs mui   
