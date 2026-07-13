@@ -6,8 +6,13 @@
 
 ## 👩‍💻 About Me
 I'm a front-end developer interested in learning new technologies and improving my skills every day.  
+🛠️ Skills:
+HTML5, CSS3, Tailwind CSS, MUI
+JavaScript, TypeScript
+React.js, Next.js
+Node.js, Express.js
+REST API Development
 
-### 🛠️ Skills:
-- HTML5, CSS3, Tailwind CSS, MUI  
-- JavaScript, TypeScript  
-- React, Next.js
+🚀 Currently Learning:
+Advanced Node.js & Express.js concepts
+Backend architecture and best practices
